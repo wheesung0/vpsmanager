@@ -1,4 +1,4 @@
-﻿# VPS-MX By Kalix1 ( MOD NEW-ULTIMATE )
+# VPS-MX
 ```
 * UPDATE 24/11/2021
 ```
@@ -15,17 +15,17 @@
 * It is recommended to use a new or formatted distro
 * Important this version is from Casita Dev Team
 * Important its use is completely free
-* Source Code [Donwload](https://raw.githubusercontent.com/rukshanchamindu/VPS-MX-FREE/main/Install/VPS-MX-FREE_v8.4e.zip)
+* Source Code [Donwload](https://raw.githubusercontent.com/wheesung0/vpsmanager/main/Install/VPS-MX-FREE_v8.4e.zip)
 
 ## :book: Installation
 
 ```
-apt update -y; apt upgrade -y; wget https://raw.githubusercontent.com/rukshanchamindu/VPS-MX-FREE/main/VPS-MX; chmod 777 VPS-MX* && ./VPS-MX*
+apt update -y; apt upgrade -y; wget https://raw.githubusercontent.com/wheesung0/vpsmanager/main/VPS-MX; chmod 777 VPS-MX* && ./VPS-MX*
 ```
 ####after successful install run this to translate VPS-MX Telegram Bot
 
 ```
-cd /tmp && mkdir /tmp/VPS-MX-EN/ && wget https://raw.githubusercontent.com/rukshanchamindu/VPS-MX-ENGLISH-ADMBOT/main/translate.sh && chmod +x translate.sh && bash translate.sh  && cd
+cd /tmp && mkdir /tmp/VPS-MX-EN/ && wget https://raw.githubusercontent.com/wheesung0/VPS-MX-ENGLISH-ADMBOT/main/translate.sh && chmod +x translate.sh && bash translate.sh  && cd
 
 ```
 ---------------------------------------------------------------
@@ -34,7 +34,7 @@ cd /tmp && mkdir /tmp/VPS-MX-EN/ && wget https://raw.githubusercontent.com/ruksh
 
 **VERSION: 8.4e**
 
-https://raw.githubusercontent.com/rukshanchamindu/VPS-MX-FREE/main/Version
+https://raw.githubusercontent.com/wheesung0/VPS-MX-FREE/main/Version
 
 ## :octocat: Credits
 
@@ -43,6 +43,3 @@ https://raw.githubusercontent.com/rukshanchamindu/VPS-MX-FREE/main/Version
 3. [Casita Dev Team - Contributor](https://github.com/lacasitamx)
 4. [illuminati Dev Team - Contributor](https://github.com/rukshanchamindu) 
 
-```
-☆ https://t.me/rukshanchamindu [  ⃘⃤꙰✰ ] ☆
-```
